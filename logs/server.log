@@ -9,3 +9,7 @@ INFO:     172.20.0.1:60972 - "GET /api/categories HTTP/1.1" 200 OK
 INFO:     172.20.0.1:60984 - "GET /api/featured HTTP/1.1" 200 OK
 INFO:     172.20.0.1:60972 - "GET /api/featured HTTP/1.1" 200 OK
 INFO:     172.20.0.1:32772 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:60988 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41272 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60988 - "GET /api/featured HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41272 - "GET /api/featured HTTP/1.1" 200 OK
